@@ -1,30 +1,37 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{I have made this project to further my programming skills by learning c++. It has helped to further my learning of some basic concepts of programming such as loops, functions, and classes.}
 
-{Provide a description the software that you wrote to demonstrate the C++ language.}
+{The purpose of this software is to take a list from a file and read and write to it. I choose to build a simple library application that is able to read from a file and append to the end of that file new books.}
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+{Here is a link to my Video Demonstration of the software.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{
+Visual Studio Code
+msys2 code compiler
+Git / Git HUB
+}
 
-{Describe the programming language that you used and any libraries.}
+{
+For this project the c++ coding language is used. 
+
+"C++ is a general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or "C with Classes"." - [c++ Wikipedia page](https://en.wikipedia.org/wiki/C%2B%2B) 
+}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [w3schools c++ tutorial](https://www.w3schools.com/cpp/default.asp)
+* [c++ basic video channel by Saldina Nurak](https://www.youtube.com/playlist?list=PL43pGnjiVwgQHLPnuH9ch-LhZdwckM8Tq)
+* [c++ opp channel by Saldina Nurak](https://www.youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN)
+* [c++ file handling by CU Boulder Data Structures CSCI 2270](https://www.youtube.com/playlist?list=PLBvn1OvosRefe9tkKxi-8tam7-Wxo35FU)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+{For future editions:}
+* I would like to add a search function
+* I would like to add a check out of Library function
