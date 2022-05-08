@@ -89,3 +89,4 @@ Articles of Faith,1,Pearl of Great Price
 The Fellowship of the Ring,22,The Lord of the Rings
 The Two Towers,21,The Lord of the Rings
 The Return of the King,19,The Lord of the Rings
+The Hobbit,19,The Lord of the Rings
